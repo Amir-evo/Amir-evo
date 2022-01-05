@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Amir Keimaram
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning python
+- 📫 How to reach me : Eydotkey@gmail.com
